@@ -46,13 +46,13 @@ Interpreted code is executed line by line by an interpreter, rather than being t
 
 In Python, several blocks of code are used to define different structures such as functions, classes, loops, and conditionals. Some of the most common blocks of code used in Python include:
 
-⋅⋅* **Functions**: defined using the "def" keyword, functions allow you to encapsulate a block of code that can be reused throughout your program.
+- **Functions**: defined using the "def" keyword, functions allow you to encapsulate a block of code that can be reused throughout your program.
 
-⋅⋅* **Classes**: classes are used to define objects and their behavior in object-oriented programming. They are defined using the "class" keyword.
+- **Classes**: classes are used to define objects and their behavior in object-oriented programming. They are defined using the "class" keyword.
 
-⋅⋅* **Loops**: used for repetitive operations, there are two main types of loops in Python: "for" loops and "while" loops.
+- **Loops**: used for repetitive operations, there are two main types of loops in Python: "for" loops and "while" loops.
 
-⋅⋅* **Conditionals**: conditionals allow you to specify conditions under which certain code should be executed. The most common conditional statement in Python is the "if" statement.
+- **Conditionals**: conditionals allow you to specify conditions under which certain code should be executed. The most common conditional statement in Python is the "if" statement.
 
 ------
 
