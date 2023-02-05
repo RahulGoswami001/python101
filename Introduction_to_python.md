@@ -66,9 +66,9 @@ In Python, a single-line comment can be added by starting the line with the poun
 
 Following functions to determine the version of Python that you are currently working with:
 
-⋅⋅* **sys.version**: Returns a string containing information about the Python version you are using, including the version number and build information.
-⋅⋅* **sys.version_info**: Returns a named tuple that contains information about the version of Python you are using, including the major, minor, and micro version numbers.
-⋅⋅* **platform.python_version()**: Returns a string containing the version of Python you are using.
+- **sys.version**: Returns a string containing information about the Python version you are using, including the version number and build information.
+- **sys.version_info**: Returns a named tuple that contains information about the version of Python you are using, including the major, minor, and micro version numbers.
+- **platform.python_version()**: Returns a string containing the version of Python you are using.
 
 ------
 
@@ -86,21 +86,21 @@ In Python, anonymous functions can be created at runtime using the **"lambda"** 
 
 ##### 11. Mention a few built-in functions in python?
 
-⋅⋅* print(): Prints the specified message to the console.
+- print(): Prints the specified message to the console.
 
-⋅⋅* len(): Returns the length of an object, such as a string or list.
+- len(): Returns the length of an object, such as a string or list.
 
-⋅⋅* range(): Generates a sequence of numbers, which can be used to iterate over with a for loop.
+- range(): Generates a sequence of numbers, which can be used to iterate over with a for loop.
 
-⋅⋅* sum(): Adds up all the numbers in a list or other iterable object.
+- sum(): Adds up all the numbers in a list or other iterable object.
 
-⋅⋅* min() and max(): Return the minimum and maximum values from a list or other iterable object.
+- min() and max(): Return the minimum and maximum values from a list or other iterable object.
 
-⋅⋅* sorted(): Returns a sorted list from an iterable object.
+- sorted(): Returns a sorted list from an iterable object.
 
-⋅⋅* abs(): Returns the absolute value of a number.
+- abs(): Returns the absolute value of a number.
 
-⋅⋅* str(), int(), float(): Convert a value to a string, integer, or floating-point number, respectively.
+- str(), int(), float(): Convert a value to a string, integer, or floating-point number, respectively.
 
 ------
 
@@ -116,15 +116,15 @@ Typically, **most operating systems** and file systems have a **limit of 255 cha
 
 Some of the key benefits are:
 
-⋅⋅* Easy to Learn and Use: Python has a simple and intuitive syntax, making it an ideal language for beginners to learn. It is also easy to read and write, which makes it an efficient choice for many tasks.
+- Easy to Learn and Use: Python has a simple and intuitive syntax, making it an ideal language for beginners to learn. It is also easy to read and write, which makes it an efficient choice for many tasks.
 
-⋅⋅* Versatile: Python is a versatile language that can be used for a wide range of applications, including web development, scientific computing, data analysis, artificial intelligence, and more.
+- Versatile: Python is a versatile language that can be used for a wide range of applications, including web development, scientific computing, data analysis, artificial intelligence, and more.
 
-⋅⋅* Large Community: Python has a large and growing community of developers, making it easier to find help and resources when needed. The community also contributes to the development of Python libraries, which makes it easier to perform complex tasks.
+- Large Community: Python has a large and growing community of developers, making it easier to find help and resources when needed. The community also contributes to the development of Python libraries, which makes it easier to perform complex tasks.
 
-⋅⋅* Plenty of Libraries and Frameworks: Python has a wealth of libraries and frameworks that provide additional functionality, making it easier to accomplish complex tasks without having to write everything from scratch. Some popular libraries include NumPy, Pandas, Matplotlib, and TensorFlow.
+- Plenty of Libraries and Frameworks: Python has a wealth of libraries and frameworks that provide additional functionality, making it easier to accomplish complex tasks without having to write everything from scratch. Some popular libraries include NumPy, Pandas, Matplotlib, and TensorFlow.
 
-⋅⋅* Interoperability: Python can easily integrate with other programming languages, such as C, C++, and Java, making it easier to use existing code and systems. This can save time and reduce the amount of code you need to write.
+- Interoperability: Python can easily integrate with other programming languages, such as C, C++, and Java, making it easier to use existing code and systems. This can save time and reduce the amount of code you need to write.
 
 ------
 
